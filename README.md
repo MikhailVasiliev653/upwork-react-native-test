@@ -1,0 +1,3 @@
+*Phonebook*
+
+Application should have a form where user will enter phonebook record. Records should have next fields: first name, last name, date of birth, phone number. Application should store phone number entry. Application should have logging system. Application should have a search by all fields (with autocompletion). Application should have possibility to show phone number records and sort them by all columns. Application should allow user to edit and delete phone number entry.
